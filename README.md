@@ -5,6 +5,10 @@
  ### Installing
  To play this game, simply download the files, and step into V3 folder. Play at "Fantastic" settings. It's important to know that running at "Fastest" won't work. 
  
+ ###Example
+ 
+ ![](gif.gif)
+ 
  ### Tech
  
  ```
