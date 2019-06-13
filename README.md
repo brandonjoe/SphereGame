@@ -1,6 +1,3 @@
- # Virgo, i hope this is gone when I come back 
- 
- 
  # Sphere game
  Sphere game is a game that a few colleagues and I build with C# from the Unity game engine. It's a game where you move around different courses using mouse and keyboard controls. 
  
